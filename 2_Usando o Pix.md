@@ -99,7 +99,7 @@ Para realizar pagamentos, o processo é similar ao de transferência. O estabele
 
 Da mesma forma, para solicitar recebimentos, a pessoa física poderá fornecer a chave Pix ou gerar um QR code, que deverá ser lido pelo smarphone do pagador. A vantagem de gerar um QR code é que ele contém não apenas os dados do recebdor, mas também o valor pré-fixado que deverá ser pago. 
 
-Para gerar um QR code, dentro da **Área Pix** (mostrada no passo 1), o usuário deverá selecionar a opção `Receber` no aplicativo ou internet banking da instituição financeira. Nessa tela é possível escolher o valor e qual das chaves Pix existentes será utilizada para a transação (lembrando que é possível cadastrar mais de uma chave Pix para uma mesma conta).
+Para gerar um QR code, dentro da **Área Pix** do aplicativo ou internet banking da instituição financeira, o usuário deverá selecionar a opção `Receber`. Nessa tela é possível escolher o valor e qual das chaves Pix existentes será utilizada para a transação (lembrando que é possível cadastrar mais de uma chave Pix para uma mesma conta).
 
 ![GerarQRCode](https://drive.google.com/uc?id=1cgYiC2H0yDtlNkmScjJrVTfI7AXgLPFF)
 
