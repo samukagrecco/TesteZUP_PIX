@@ -93,7 +93,7 @@ Para fazer uma transferência, siga os passos abaixo:
 
 ## Pagamentos e recebimentos 
 
-Para realizar pagamentos, o processo é smilar ao de transferência. O estabelecimento ou pessoa física pode fornecer a chave Pix ou disponibilizar um QR code, que deverá ser lido pelo smartphone do pagador.
+Para realizar pagamentos, o processo é similar ao de transferência. O estabelecimento ou pessoa física pode fornecer a chave Pix ou disponibilizar um QR code, que deverá ser lido pelo smartphone do pagador.
 
 ![QRCode](https://drive.google.com/uc?id=1-gjEJgfBcPILnBbqLWvnb05MQOK-OXT7)
 
