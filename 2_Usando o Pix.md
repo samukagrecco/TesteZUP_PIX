@@ -25,7 +25,7 @@ Para cadastrar uma chave Pix, siga os passos abaixo:
 
 ![CaveSucesso](https://drive.google.com/uc?id=1jEUEaJTwc_zfpEDZ1XZHIXkODY23aH9T) 
 
-5. Agora já é possível conferir a chave recém-criada. Para isso, acesse o menu `Configurar Pix` dentro da **Área Pix**.
+5. Agora já é possível conferir a chave recém-criada. Agora já é possível conferir a chave recém-criada. Para isso, dentro da **Área Pix** (mostrada no passo 1), acesse o menu `Configurar Pix`.
 
 ![Configurar](https://drive.google.com/uc?id=18SMcCVDWQ2sIGUfVr7zt1nKZII-DXEG1) 
 
