@@ -4,9 +4,7 @@ Este é um documento fictício desenvolvido por **Samuel Grecco Savickas** como 
 
 O objetivo do teste é descrever o funcionalmento geral do sistema Pix, detalhando benefícios, principais características e critérios de segurança. Entre outras informações, inclui tutoriais de como realizar algumas operações, um _Glossário_ com conceitos do sistema e uma seção de _Perguntas frequentes_.
 
-**Notas:**
-- O nome de arquivo deste documento é: `TesteZUP_SamuelGSavickas_29092023.md`.
-- O conteúdo na íntegra deste arquivo também pode ser encontrado [neste repositório público do GitHub](https://github.com/samukagrecco/TesteZUP_PIX).
+**Nota**: O conteúdo na íntegra deste repositório também pode ser encontrado no arquivo `TesteZUP_SamuelGSavickas_29092023.pdf` (também anexado neste repositório).
 
 ## Conteúdo
 Este documento contém as seguintes seções:
